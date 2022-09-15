@@ -2,6 +2,6 @@ package degon
 
 import "fmt"
 
-func myas() {
+func Myas() {
 	fmt.Println("kcy2012 degon myas")
 }
